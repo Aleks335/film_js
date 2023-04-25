@@ -1,0 +1,6 @@
+.gridCont {
+    display: grid;
+    grid-template-columns: repeat(3, 30vw);
+    text-align: center;
+    gap: 1%;
+}

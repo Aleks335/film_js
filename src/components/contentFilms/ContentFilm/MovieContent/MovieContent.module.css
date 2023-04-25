@@ -1,0 +1,13 @@
+
+.allImgUrl {
+    width: 100px
+}
+
+.heart {
+    width: 5%;
+}
+
+.heart:hover {
+    cursor: pointer;
+    background-color: #61dafb;
+}

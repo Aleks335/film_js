@@ -1,0 +1,18 @@
+.container {
+    margin-top: 8%;
+    transition: 1s;
+    cursor: pointer;
+    outline: none;
+    text-decoration: none;
+    color: black;
+}
+
+.container:hover {
+    transform: scale(1.2)
+}
+
+.img {
+    width: 18vw;
+    margin: 1%;
+
+}
